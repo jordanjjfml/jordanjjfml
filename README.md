@@ -1,11 +1,47 @@
-## Hi there 👋
+# Olá, eu sou o Jordan! 👋
 
-EU Sou Jordan Jymmy, sou um programador Front End,atualmente estou aprendendo e criando projetos com:
-<br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
-    <br>
-     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-     <br>
-     [![Jordan stats](https://github-readme-stats.vercel.app/api?username=jordanjjfml)](https://github.com/anuraghazra/github-readme-stats)
-     <br>
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanjjfml)](https://github.com/anuraghazra/github-readme-stats)
+> "A Diferença de quem Eu Sou pro que vou me Tornar está no que estou Fazendo Agora."
+
+---
+
+## 🚀 Sobre Mim
+
+Sou um **Desenvolvedor Full Stack** Focado em criar experiências digitais completas, performáticas e focadas na experiência do usuário. Estou em constante evolução, buscando sempre transformar ideias em código limpo e funcional.
+
+- ⚡ **Foco atual:** Aperfeiçoar minhas habilidades no ecossistema JavaScript.
+- 🌱 **Estudando:** Melhores práticas de arquitetura e performance.
+
+---
+
+## 🛠️ Caixa de Ferramentas
+
+### 🎨 Front-end
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+
+### ⚙️ Back-end
+![NodeJS](https://shields.io)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="192px"/>
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="192px"/>
+</div>
+
+---
+
+## 📫 Vamos nos conectar!
+
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/jordan-jymmy-jaber-farias-moraes-lins/)
+[![Gmail](https://shields.io)](jordanjjfml@gmail.com)
+
+---
+<div align="center">
+  Pronto para construir o futuro, um commit de cada vez. 💻
+</div>
+
