@@ -16,7 +16,7 @@ Sou um **Desenvolvedor Full Stack** Focado em criar experiências digitais compl
 ## 🛠️ Caixa de Ferramentas
 
 ### 🎨 Front-end
-![HTML5](https://shields.io)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="hmtl-logo" />
 ![CSS3](https://shields.io)
 ![JavaScript](https://shields.io)
 ![React](https://shields.io)
